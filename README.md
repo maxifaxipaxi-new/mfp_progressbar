@@ -1,8 +1,8 @@
-_____ _____ _____ _____ _____ _____ _____ _____ _____ _____ 
-|     |   __|  _  |   __|     | __  |     |  _  |_   _|   __|
-| | | |   __|   __|__   |   --|    -|-   -|   __| | | |__   |
-|_|_|_|__|  |__|  |_____|_____|__|__|_____|__|    |_| |_____|
-                                                              
+## Preview
+![image](https://github.com/maxifaxipaxi-new/mfp_progressbar/assets/115405418/f9d1a289-8f8f-46a3-8592-9ea00835559b)
+
+## Newest Version
+https://mfp.tebex.io/package/5888163
                                            
 ## Requirements
 - Nothing, its standalone ^^
@@ -22,27 +22,9 @@ Instead of yourtime put in time in ms. like 10000 for 10 sek.
 - Example use: exports['mfp_progressbar']:startUI(10000, "Repair Vehicle...")
 
 
-
 Visit https://store.mfpscripts.com to see other scripts you'll love!
 
 
 ## ChangeLogs
 Version 1.0
 - improved UI
-
-
-
-
-
-
-
-
-
-
-
-###############################################################################################
-
-                             Credits goes to MFPSCRIPTS!
-							 Thanks lUXCODING for your help!
-
-###############################################################################################
