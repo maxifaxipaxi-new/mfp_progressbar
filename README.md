@@ -23,8 +23,3 @@ Instead of yourtime put in time in ms. like 10000 for 10 sek.
 
 
 Visit https://store.mfpscripts.com to see other scripts you'll love!
-
-
-## ChangeLogs
-Version 1.0
-- improved UI
